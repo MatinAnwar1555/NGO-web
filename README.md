@@ -31,5 +31,10 @@ The website represents an NGO organization and includes the following sections:
 - **JavaScript** – Interactivity (optional, for buttons/forms)  
 
 ---
+<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/04bd13b5-edc4-4df5-ae0b-87d5435ef9d4" />
 
-## 📂 Folder Structure
+<img width="1366" height="768" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/73dad140-5dad-4988-852f-2960ed3cd97c" />
+
+<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/afbed65b-14ae-4607-a8e6-e616effbd0b4" />
+<img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/98470181-d2a1-4df6-a8cf-4e5d372d2c69" />
+<img width="1366" height="768" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/95a3206a-bd53-4ba2-abfd-81de1481b1c7" />
